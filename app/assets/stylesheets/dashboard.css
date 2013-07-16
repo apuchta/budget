@@ -1,0 +1,31 @@
+* {
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box; 
+}
+
+header {
+	height: 100px;
+	background: green;
+}
+
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#ola {
+	background: #FF70A7;
+	width: 50%;
+	float: left;
+}
+
+#tomek {
+	background: #70E0FF;
+	width: 50%;
+	float: right;
+}
+
+h1 {
+	font-size: 24px;
+}
