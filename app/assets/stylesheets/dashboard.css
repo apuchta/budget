@@ -6,7 +6,6 @@
 
 header {
 	height: 100px;
-	background: #AE89AF;
 }
 
 .wrapper {
@@ -18,18 +17,35 @@ header {
 	background: #FF70A7;
 	width: 50%;
 	float: left;
+	padding-left: 20px;
+	padding-bottom: 20px;
 }
 
 #tomek {
 	background: #70E0FF;
 	width: 50%;
 	float: right;
+	padding-left: 20px;
+	padding-bottom: 20px;
 }
 
 #dodawanie {
 	background: #AE89AF;
+	width: 100%;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	padding-top: 20px;
+
+}
+
+#dodawanie form {
 	width: 50%;
-	float: center;
+	margin: 0 auto;
+}
+
+#dodawanie form input {
+	width: 45%;
+	height: 30px;
 }
 
 h1 {
