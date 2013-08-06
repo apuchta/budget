@@ -6,7 +6,7 @@
 
 header {
 	height: 100px;
-	background: green;
+	background: #AE89AF;
 }
 
 .wrapper {
@@ -24,6 +24,12 @@ header {
 	background: #70E0FF;
 	width: 50%;
 	float: right;
+}
+
+#dodawanie {
+	background: #AE89AF;
+	width: 50%;
+	float: center;
 }
 
 h1 {
